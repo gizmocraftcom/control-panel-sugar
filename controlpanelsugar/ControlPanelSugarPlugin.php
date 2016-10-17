@@ -25,7 +25,7 @@ class ControlPanelSugarPlugin extends BasePlugin
 	 */
 	public function getVersion()
 	{
-		return '0.3.3';
+		return '0.3.4';
 	}
 
 	/**
@@ -53,7 +53,7 @@ class ControlPanelSugarPlugin extends BasePlugin
 	 */
 	public function getDocumentationUrl()
 	{
-		return 'https://bitbucket.org/gizmocraft/control-panel-sugar';
+		return 'https://github.com/gizmocraftcom/control-panel-sugar';
 	}
 
 	/**
@@ -65,7 +65,7 @@ class ControlPanelSugarPlugin extends BasePlugin
 	 */
 	public function getReleaseFeedUrl()
 	{
-		return 'https://bitbucket.org/gizmocraft/control-panel-sugar/raw/master/releases.json';
+		return 'https://raw.githubusercontent.com/gizmocraftcom/control-panel-sugar/master/releases.json';
 	}
 
 	/**

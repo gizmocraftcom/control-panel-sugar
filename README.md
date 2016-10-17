@@ -1,4 +1,4 @@
-# Control Panel Sugar 0.3.3
+# Control Panel Sugar 0.3.4
 
 Control Panel Sugar is an experimental plugin for [Craft CMS](https://craftcms.com/) that adds some extra functionality to the control panel and various other stuff.
 

@@ -23,11 +23,20 @@
   },
   {
     "version": "0.3.3",
-    "downloadUrl": "https://github.com/gizmocraftcom/control-panel-sugar/releases/",
-    "date": "2016-10-17T00:00:00-08:00",
+    "downloadUrl": "https://github.com/gizmocraftcom/control-panel-sugar/archive/v0.3.3.zip",
+    "date": "2016-10-16T00:00:00-08:00",
     "notes": [
       "# Moved to GitHub",
       "[Added] MIT license"
+    ],
+    "critical": false
+  },
+  {
+    "version": "0.3.4",
+    "downloadUrl": "https://github.com/gizmocraftcom/control-panel-sugar/archive/v0.3.4.zip",
+    "date": "2016-10-17T00:00:00-08:00",
+    "notes": [
+      "[Added] Public release feed"
     ],
     "critical": false
   }
