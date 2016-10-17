@@ -1,0 +1,86 @@
+/**
+ * Custom nav items
+ */
+#nav li.nav-settings-fields .icon span[data-icon],
+#nav li.nav-settings-sections .icon span[data-icon] {
+    font-size: 8px;
+}
+
+
+/**
+ * Sidebar
+ */
+@media (min-width: 993px) and (max-width: 1099px) {
+    #global-sidebar {
+        width: 120px;
+    }
+
+    #global-sidebar #site-icon {
+        display: none;
+    }
+
+    body.ltr #container {
+        padding-left: 120px;
+    }
+
+    body.rtl #container {
+        padding-right: 120px;
+    }
+}
+@media (min-width: 1100px) and (max-width: 1199px) {
+    #global-sidebar {
+        width: 150px;
+    }
+
+    body.ltr #container {
+        padding-left: 150px;
+    }
+
+    body.rtl #container {
+        padding-right: 150px;
+    }
+}
+
+
+/**
+ * Grouped Matrix blocks
+ */
+.controlpanelsugar-grouped {
+    margin-left: 20px;
+}
+
+
+/**
+ * Control Panel: plugin rows
+ */
+#plugins tbody tr:hover th,
+#plugins tbody tr:hover td {
+    background-color: rgba(184, 190, 197, 0.1);
+}
+
+
+/**
+ * Control Panel: bigger checkbox
+ * /
+.fields .checkboxfield label {
+    padding-left: 25px !important;
+}
+.fields .checkboxfield label::before {
+    top: -3px !important;
+    color: transparent;
+    font-size: 15px !important;
+    line-height: 18px !important;
+    width: 20px !important;
+    height: 20px !important;
+}
+.fields .checkboxfield input.checkbox:checked + label::before {
+    color: inherit;
+}*/
+
+
+/**
+ * LinkIt plugin
+ * /
+.select.linkIt-Type option {
+    min-height: 30px;   /* Firefox * /
+}*/
