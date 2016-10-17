@@ -32,11 +32,11 @@ Control Panel Sugar is an experimental plugin for [Craft CMS](https://craftcms.c
 ## Updates
 
 * 0.3.0
-	* Added: Visually group blocks. Use arrow characters in the block type title description to use grouping: '➘' to start group and '➚' to close group
+  * Added: Visually group blocks. Use arrow characters in the block type title description to use grouping: '➘' to start group and '➚' to close group
 * 0.2.0
-	* Added `Alt` check box click feature
+  * Added `Alt` check box click feature
 * 0.1.0
-	* Initial release
+  * Initial release
 
 ## Todo
 
@@ -44,7 +44,6 @@ Control Panel Sugar is an experimental plugin for [Craft CMS](https://craftcms.c
 * Entries: Add locale info
 * …
 * Suggestions? :-)
-
 
 ## Author
 
