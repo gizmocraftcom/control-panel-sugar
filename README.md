@@ -1,4 +1,4 @@
-# Control Panel Sugar 0.4.0
+# Control Panel Sugar 0.5.0
 
 Control Panel Sugar is an experimental plugin for [Craft CMS](https://craftcms.com/) that adds some extra functionality to the control panel and various other stuff.
 
@@ -31,6 +31,8 @@ Control Panel Sugar is an experimental plugin for [Craft CMS](https://craftcms.c
 
 ## Updates
 
+* 0.5.0
+  * Added: Font styles for WYSIWYG editor (Redactor 2) to match Craft control panel
 * 0.4.0
   * Added: Background color for links in WYSIWYG editor (Redactor)
   * Added: Disable pointer events on control panel notifications to stop them blocking breadcrumb links

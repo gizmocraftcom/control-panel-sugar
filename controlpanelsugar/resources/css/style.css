@@ -89,7 +89,13 @@
 /**
  * Redactor
  */
-.redactor-editor a {
+.redactor-box .redactor-styles {  /* Redactor II; Craft CMS since 2.6.2963 */
+    font-family: HelveticaNeue, sans-serif;
+    font-size: 13px;
+    line-height: 1.5;
+}
+.redactor-editor a, /* Redactor I; Craft CMS until 2.6.2962 */
+.redactor-styles a {  /* Redactor II; Craft CMS since 2.6.2963 */
     color: #f00 !important; /* 48f, 4285f4, 55aeff */
     /*background-color: rgba(68, 136, 255, 0.15);*/
     background-color: rgba(255, 200, 0, 0.25);

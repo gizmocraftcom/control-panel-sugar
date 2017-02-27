@@ -25,7 +25,7 @@ class ControlPanelSugarPlugin extends BasePlugin
 	 */
 	public function getVersion()
 	{
-		return '0.4.0';
+		return '0.5.0';
 	}
 
 	/**
@@ -97,8 +97,8 @@ class ControlPanelSugarPlugin extends BasePlugin
 		 * Disable twig debug logs in browser console
 		 * source: http://craftcms.stackexchange.com/questions/8520/is-it-possible-to-disable-dev-output-in-a-template-when-devmode-is-true
 		 */
-        craft()->log->removeRoute('WebLogRoute');
-        craft()->log->removeRoute('ProfileLogRoute');
+        // craft()->log->removeRoute('WebLogRoute');
+        // craft()->log->removeRoute('ProfileLogRoute');
 
 
 		/**

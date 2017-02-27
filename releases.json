@@ -39,7 +39,7 @@
       "[Added] Public release feed"
     ],
     "critical": false
-  }
+  },
   {
     "version": "0.4.0",
     "downloadUrl": "https://github.com/gizmocraftcom/control-panel-sugar/archive/v0.4.0.zip",
@@ -47,6 +47,15 @@
     "notes": [
       "[Added] Background color for links in WYSIWYG editor (Redactor)",
       "[Added] Disable pointer events on control panel notifications to stop them blocking breadcrumb links"
+    ],
+    "critical": false
+  },
+  {
+    "version": "0.5.0",
+    "downloadUrl": "https://github.com/gizmocraftcom/control-panel-sugar/archive/v0.5.0.zip",
+    "date": "2017-02-27T00:00:00-08:00",
+    "notes": [
+      "[Added] Font styles for WYSIWYG editor (Redactor 2) to match Craft control panel"
     ],
     "critical": false
   }
